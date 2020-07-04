@@ -1,17 +1,9 @@
-### Hi there 👋
-
-#### Books :book:
+### Books :book:
 
 * :jp: [エキスパートPythonプログラミング改訂2版 (原題: Expert Python Programming Second Edition) - KADOKAWA(ASCII DWANGO)](https://www.amazon.co.jp/dp/4048930613/)
 * coming soon...
 
-#### Blog posts :pen:
-
-* [The internal of go-prompt: How to control the rich terminal UI (Part I).](https://medium.com/@c_bata_/the-internal-of-go-prompt-how-to-control-the-rich-terminal-ui-part-i-7d22bdfe6b9a)
-* [Optimizing Go programs by AVX2 using Auto-Vectorization in LLVM.](https://medium.com/@c_bata_/optimizing-go-by-avx2-using-auto-vectorization-in-llvm-118f7b366969)
-* [How to write cross-platform packet capture from scratch in 1000 LOC.](https://medium.com/@c_bata_/how-to-write-cross-platform-packet-capture-using-raw-socket-and-bpf-bab3b614bc03)
-
-#### Featured pull requests :computer:
+### Featured pull requests :computer:
 
 * [Kubeflow/Katib: Add Goptuna based suggestion service for CMA-ES. #1131](https://github.com/kubeflow/katib/pull/1131)
 * [Django: Optimized sql_flush() without resetting sequence on MySQL. #12634](https://github.com/django/django/pull/12634)
@@ -32,6 +24,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+#### Blog posts :pen:
+
+* [The internal of go-prompt: How to control the rich terminal UI (Part I).](https://medium.com/@c_bata_/the-internal-of-go-prompt-how-to-control-the-rich-terminal-ui-part-i-7d22bdfe6b9a)
+* [Optimizing Go programs by AVX2 using Auto-Vectorization in LLVM.](https://medium.com/@c_bata_/optimizing-go-by-avx2-using-auto-vectorization-in-llvm-118f7b366969)
+* [How to write cross-platform packet capture from scratch in 1000 LOC.](https://medium.com/@c_bata_/how-to-write-cross-platform-packet-capture-using-raw-socket-and-bpf-bab3b614bc03)
+
 
 #### Web development
 
