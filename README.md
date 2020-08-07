@@ -1,3 +1,5 @@
+![c-bata's github stats](https://github-readme-stats.vercel.app/api?username=c-bata&count_private=tru&show_icons=true&hide=contribs,issues)
+
 ### Books :book:
 
 * :jp: [エキスパートPythonプログラミング改訂2版 (原題: Expert Python Programming Second Edition) - KADOKAWA(ASCII DWANGO)](https://www.amazon.co.jp/dp/4048930613/)
