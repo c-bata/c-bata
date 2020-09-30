@@ -1,6 +1,10 @@
+<!--
+
 ### Activity
 
 ![c-bata's github stats](https://github-readme-stats.vercel.app/api?username=c-bata&count_private=tru&show_icons=true&hide=contribs,issues)
+
+-->
 
 ### Books :book:
 
