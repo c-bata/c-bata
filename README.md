@@ -7,7 +7,7 @@
 
 * [kubeflow/katib#1131](https://github.com/kubeflow/katib/pull/1131): Add Goptuna based suggestion service for CMA-ES.
 * [django/django#12634](https://github.com/django/django/pull/12634): Optimized sql_flush() without resetting sequence on MySQL.
-* [optuna/optuna#920](https://github.com/optuna/optuna/pull/920): Add CMA-ES sampler.
+* [optuna/optuna](https://github.com/optuna/optuna/pulls?q=is%3Apr+author%3Ac-bata+is%3Amerged+): Implement CMA-ES, WS-CMA-ES, IPOP-CMA-ES and sep-CMA-ES.
 * [scikit-learn/scikit-learn#14378](https://github.com/scikit-learn/scikit-learn/pull/14378): Add clone_kernel option to make gaussian process models faster.
 
 <!--
