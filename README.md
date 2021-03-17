@@ -1,7 +1,7 @@
 ### About me
 
 I'm Masashi Shibata, a research enginner based in Tokyo. I'm currently focusing on the development of hyperparameter optimization frameworks (Optuna and Goptuna).
-If you want to contact me directly, please text me via  [Twitter](https://twitter.com/c_bata_) or [Linkedin](https://www.linkedin.com/in/c-bata/).
+If you want to contact me directly, please send a message via  [Twitter](https://twitter.com/c_bata_) or [Linkedin](https://www.linkedin.com/in/c-bata/).
 
 ### Books
 
