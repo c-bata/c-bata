@@ -10,7 +10,7 @@
 * [optuna/optuna](https://github.com/optuna/optuna/pulls?q=is%3Apr+author%3Ac-bata+is%3Amerged+): Implement CMA-ES, WS-CMA-ES, IPOP-CMA-ES and sep-CMA-ES algorithms. Author of [Optuna Web Dashboard](https://github.com/optuna/optuna-dashboard).
 * [scikit-learn/scikit-learn#14378](https://github.com/scikit-learn/scikit-learn/pull/14378): Add clone_kernel option to make gaussian process models faster.
 
-### How to reache me
+### How to reach me
 
 Please send a message via [Twitter](https://twitter.com/c_bata_) or [Linkedin](https://www.linkedin.com/in/c-bata/).
 
