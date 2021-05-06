@@ -10,7 +10,7 @@
 * [optuna/optuna](https://github.com/optuna/optuna/pulls?q=is%3Apr+author%3Ac-bata+is%3Amerged+): Implement CMA-ES, WS-CMA-ES, IPOP-CMA-ES and sep-CMA-ES algorithms. Author of [Optuna Web Dashboard](https://github.com/optuna/optuna-dashboard).
 * [scipy/scipy#13514](https://github.com/scipy/scipy/pull/13514): ENH: simplify low_0_bit function for Sobol.
 * [scikit-learn/scikit-learn#14378](https://github.com/scikit-learn/scikit-learn/pull/14378): Add clone_kernel option to make gaussian process models faster.
-* [benoitc/gunicorn](https://github.com/benoitc/gunicorn/commits?author=c-bata): Sent minor refactoring patches.
+* [benoitc/gunicorn](https://github.com/benoitc/gunicorn/commits?author=c-bata): Sent some minor refactoring patches.
 
 ### How to reach me
 
