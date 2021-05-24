@@ -15,7 +15,7 @@
 ### Books
 
 * :jp: [エキスパートPythonプログラミング改訂2版 (原題: Expert Python Programming Second Edition) - KADOKAWA](https://www.amazon.co.jp/dp/4048930613/)
-* :jp: 実践Django Pythonによる本格Webアプリケーション開発 - 翔泳社
+* :jp: [実践Django Pythonによる本格Webアプリケーション開発 - 翔泳社](https://www.amazon.co.jp/dp/4798153958/)
 
 <!-- * :jp: エキスパートPythonプログラミング改訂3版 (原題: Expert Python Programming Third Edition) - KADOKAWA -->
 
