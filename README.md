@@ -2,15 +2,14 @@
 
 ![c-bata's github stats](https://github-readme-stats.vercel.app/api?username=c-bata&count_private=tru&show_icons=true&hide=contribs,issues)
 
-
 ### Pull requests
 
-* [optuna/optuna](https://github.com/optuna/optuna/pulls?q=is%3Apr+author%3Ac-bata+is%3Amerged+): Implement CMA-ES, WS-CMA-ES, IPOP-CMA-ES and sep-CMA-ES algorithms.
-* [kubeflow/katib](https://github.com/kubeflow/katib/pulls?q=is%3Apr+author%3Ac-bata+is%3Aclosed): Add Goptuna based suggestion service.
-* [django/django#12634](https://github.com/django/django/pull/12634): Optimized sql_flush() without resetting sequence on MySQL.
-* [scikit-learn/scikit-learn#14378](https://github.com/scikit-learn/scikit-learn/pull/14378): Add clone_kernel option to make gaussian process models faster.
-* [scipy/scipy#13514](https://github.com/scipy/scipy/pull/13514): ENH: simplify low_0_bit function for Sobol.
-* [benoitc/gunicorn](https://github.com/benoitc/gunicorn/commits?author=c-bata): Some minor refactoring patches to drop Python 2 support.
+* [Optuna](https://github.com/optuna/optuna/pulls?q=is%3Apr+author%3Ac-bata+is%3Amerged+) (Committer)
+* [kubeflow/katib](https://github.com/kubeflow/katib/pulls?q=is%3Apr+author%3Ac-bata+is%3Aclosed) (Reviewer)
+* [Django](https://github.com/django/django/pulls?q=is%3Apr+author%3Ac-bata+is%3Aclosed)
+* [scikit-learn](https://github.com/scikit-learn/scikit-learn/pull/14378)
+* [scipy](https://github.com/scipy/scipy/pull/13514)
+* [gunicorn](https://github.com/benoitc/gunicorn/commits?author=c-bata)
 
 ### Books
 
