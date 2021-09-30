@@ -1,6 +1,15 @@
+<!--
+
 ### Activity
 
 ![c-bata's github stats](https://github-readme-stats.vercel.app/api?username=c-bata&count_private=tru&show_icons=true&hide=contribs,issues)
+
+-->
+
+### About me
+
+Hello, I'm Masashi Shibata. I'm an author of go-prompt, kube-prompt and goptuna. Committer of Optuna. Reviewer of kubeflow/katib.
+You can reach me via [Twitter](https://twitter.com/c_bata_) or [Linkedin](https://www.linkedin.com/in/c-bata/).
 
 ### Books
 
@@ -19,5 +28,4 @@
 ### How to reach me
 
 Please send a message via [Twitter](https://twitter.com/c_bata_) or [Linkedin](https://www.linkedin.com/in/c-bata/).
-
 -->
