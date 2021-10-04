@@ -8,8 +8,7 @@
 
 ### About me
 
-Hello, I'm Masashi Shibata. I'm an author of go-prompt, kube-prompt and goptuna. Committer of Optuna. Reviewer of kubeflow/katib.
-You can reach me via [Twitter](https://twitter.com/c_bata_) or [Linkedin](https://www.linkedin.com/in/c-bata/).
+Hello, I'm Masashi Shibata. I'm an author of go-prompt and kube-prompt, a committer of Optuna, and a reviewer of Katib(Kubeflow). You can reach me via [Twitter](https://twitter.com/c_bata_) or [Linkedin](https://www.linkedin.com/in/c-bata/).
 
 ### Books
 
