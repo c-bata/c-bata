@@ -8,9 +8,7 @@
 
 ### About me
 
-[resume](https://c-bata.link/resume.pdf)
-
-Hello, I'm Masashi Shibata. I'm an author of go-prompt and kube-prompt, a committer of Optuna, and a reviewer of Katib(Kubeflow). You can reach me via [Twitter](https://twitter.com/c_bata_) or [Linkedin](https://www.linkedin.com/in/c-bata/).
+Hello, I'm Masashi Shibata. I'm an author of go-prompt and kube-prompt, a committer of Optuna, and a reviewer of Katib(Kubeflow). You can reach me via [Twitter](https://twitter.com/c_bata_) or [Linkedin](https://www.linkedin.com/in/c-bata/). Check [my resume](https://c-bata.link/resume.pdf) for details.
 
 ### Books
 
