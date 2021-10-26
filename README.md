@@ -14,11 +14,11 @@ Hello, I'm Masashi Shibata. I'm an author of go-prompt and kube-prompt, a commit
 
 ### Books
 
-* :jp: [Japanese Django Book - 2021 Shoeisha](https://www.amazon.co.jp/dp/4798153958/)
+* :jp: [Japanese Django Book (2021 Shoeisha)](https://www.amazon.co.jp/dp/4798153958/)
     * Sample code (GitHub): https://github.com/c-bata/practical-django
-* :jp: [Japanese Translation of Expert Python Programming Third Edition - 2021 KADOKAWA](https://www.amazon.co.jp/gp/product/4048930842)
+* :jp: [Japanese Translation of Expert Python Programming Third Edition (2021 KADOKAWA)](https://www.amazon.co.jp/gp/product/4048930842)
     * Sample code (GitHub): https://github.com/asciidwango/ExpertPython3_Source
-* :jp: [Japanese Translation of Expert Python Programming Second Edition - 2018 KADOKAWA](https://www.amazon.co.jp/dp/4048930613/)
+* :jp: [Japanese Translation of Expert Python Programming Second Edition (2018 KADOKAWA)](https://www.amazon.co.jp/dp/4048930613/)
 
 ### Pull Requests
 
