@@ -8,15 +8,17 @@
 
 ### About me
 
+[resume](https://c-bata.link/resume.pdf)
+
 Hello, I'm Masashi Shibata. I'm an author of go-prompt and kube-prompt, a committer of Optuna, and a reviewer of Katib(Kubeflow). You can reach me via [Twitter](https://twitter.com/c_bata_) or [Linkedin](https://www.linkedin.com/in/c-bata/).
 
 ### Books
 
-* :jp: [実践Django Pythonによる本格Webアプリケーション開発 - 翔泳社](https://www.amazon.co.jp/dp/4798153958/)
+* :jp: [Japanese Django Book - 2021 Shoeisha](https://www.amazon.co.jp/dp/4798153958/)
     * Sample code (GitHub): https://github.com/c-bata/practical-django
-* :jp: [エキスパートPythonプログラミング改訂3版 (原題: Expert Python Programming Third Edition) - KADOKAWA](https://www.amazon.co.jp/gp/product/4048930842)
+* :jp: [Japanese Translation of Expert Python Programming Third Edition - 2021 KADOKAWA](https://www.amazon.co.jp/gp/product/4048930842)
     * Sample code (GitHub): https://github.com/asciidwango/ExpertPython3_Source
-* :jp: [エキスパートPythonプログラミング改訂2版 (原題: Expert Python Programming Second Edition) - KADOKAWA](https://www.amazon.co.jp/dp/4048930613/)
+* :jp: [Japanese Translation of Expert Python Programming Second Edition - 2018 KADOKAWA](https://www.amazon.co.jp/dp/4048930613/)
 
 ### Pull Requests
 
