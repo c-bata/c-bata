@@ -8,7 +8,7 @@
 
 ### About me
 
-Hello, I'm Masashi Shibata. Author of go-prompt and kube-prompt, a committer of Optuna, and a reviewer of Katib(Kubeflow).
+Hello, I'm Masashi Shibata. Author of go-prompt and kube-prompt, a core developer of Optuna, and a reviewer of Katib(Kubeflow).
 
 ### Pull Requests
 
