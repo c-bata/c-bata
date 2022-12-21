@@ -8,7 +8,7 @@
 
 ### About me
 
-Hello, I'm Masashi Shibata. Creator of go-prompt and kube-prompt. An author and a co-translator of [some Japanese Python books](http://amzn.to/3709ZSs).
+Hello, I'm Masashi Shibata. Creator of go-prompt and kube-prompt. Author and co-translator of some [Japanese Python books](http://amzn.to/3709ZSs).
 
 
 <!--
